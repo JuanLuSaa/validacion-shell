@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Hola Mundo"
+echo "Nueva funcionalidad"
 Linea 1
 Linea 2
 Linea 3
